@@ -1,7 +1,6 @@
 # Finance-project
-.
 
-**📘**Project Overview****
+****📘Project Overview****
 
 This project demonstrates end-to-end data analytics and business intelligence skills by analyzing a banking dataset to uncover insights about loan performance, deposits, and customer engagement.
 
